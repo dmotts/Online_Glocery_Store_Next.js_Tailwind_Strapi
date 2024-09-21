@@ -1,6 +1,6 @@
 # Online Glocery Store
 
-<h4>A Full stack Online Grocery Store App using Next.js 14, Strapi cms, Tailwind css & Shadcn UI, Radix UI and Lucide for icons 💎</h4>  
+<h4>Created a fully-featured Online Grocery Store application utilizing Next.js 14, Strapi, Tailwind CSS, and Shadcn UI. ✨ The visual elements of this project are available for viewing across multiple platforms, as detailed in the project description. ✔️</h4>  
 
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
